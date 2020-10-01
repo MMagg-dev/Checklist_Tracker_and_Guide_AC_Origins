@@ -15,6 +15,7 @@ The application uses third party services that may collect information used to i
 * [AdColony](https://www.adcolony.com/privacy-policy/)
 * [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 * [InMobi](https://www.inmobi.com/privacy-policy/)
+* [MoPub](https://www.mopub.com/en/gdpr)
 * [Vungle](https://vungle.com/privacy/)
 
 ### Log Data
