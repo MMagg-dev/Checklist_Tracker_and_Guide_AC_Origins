@@ -1,4 +1,4 @@
-# Checklist, Tracker, and Guide - AC Origins (Coming soon)
+# Checklist, Tracker, and Guide - AC Origins
 
 An unofficial checklist, progress tracker, and general guide for Assassin's Creed Origins game. Explore Ancient Egypt, Sinaï, Thebes, and the Valley of the Kings and make sure you don't miss out on any quest, collectible, achievement, or papyrus puzzle in the game.
 
