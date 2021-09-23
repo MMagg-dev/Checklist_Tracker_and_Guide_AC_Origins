@@ -21,6 +21,12 @@ Link to Terms and Conditions of third party service providers used by the app
 * [AdMob](https://developers.google.com/admob/terms)
 * [InMobi](https://www.inmobi.com/page/opt-out)
 
+The following third party service providers have been added to versions 1.2.2 and above of the application - 
+* [Facebook](https://www.facebook.com/legal/terms/plain_text_terms)
+
+The following third party service providers have been removed from versions 1.2.2 and above of the application - 
+* [InMobi](https://www.inmobi.com/page/opt-out)
+
 
 You should be aware that there are certain things that developer will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi, or provided by your mobile network provider, but the developer cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.  
 \
@@ -37,3 +43,6 @@ The developer may update the terms of use from time to time. Thus, you are advis
 
 ### Contact
 If you have any questions or suggestions about this Terms of Use document, do not hesitate to contact me at [mahakagg30@gmail.com](mailto:mahakagg30@gmail.com).
+
+### Change log
+* 23rd September 2021 - added Facebook as third party service provider and removed InMobi as a third party service provider for application versions 1.2.2 and above. 
