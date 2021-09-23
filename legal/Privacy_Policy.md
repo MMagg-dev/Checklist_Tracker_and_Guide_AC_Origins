@@ -55,4 +55,4 @@ I may update the privacy policy from time to time. Thus, you are advised to revi
 If you have any questions or suggestions about this privacy policy, do not hesitate to contact me at [mahakagg30@gmail.com](mailto:mahakagg30@gmail.com).
 
 ### Change logs
-* 23rd September 2021 - updated for information collection by Facebook. In addition, InMobi and Adcolony has been removed as a third party for versions 1.2.2. and above of the application.
+* 23rd September 2021 - updated for information collection by Facebook. In addition, InMobi and Adcolony have been removed as a third party for versions 1.2.2. and above of the application.
