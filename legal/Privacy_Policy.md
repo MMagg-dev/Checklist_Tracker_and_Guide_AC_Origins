@@ -9,12 +9,20 @@ This policy is effective as of version 1.0.0 and above of the application.
 ### Information Collection and Use
 For a better experience, while using the service, you may be required to provide certain personally identifiable information. This information will be retained on your device and is not collected by me in any way. 
 The application uses third party services that may collect information used to identify you. Links of privacy policies of third party service providers used by the application are as follows – 
-*	[Google Play Services](https://policies.google.com/privacy)
-*	[Firebase Analytics](https://firebase.google.com/policies/analytics)
+* [Google Play Services](https://policies.google.com/privacy)
+* [Firebase Analytics](https://firebase.google.com/policies/analytics)
 * [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
 * [AdColony](https://www.adcolony.com/privacy-policy/)
 * [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 * [InMobi](https://www.inmobi.com/privacy-policy/)
+
+The following third party services may collect information in versions 1.2.2 and above of the application -
+* [Facebook](https://www.facebook.com/about/privacy/update/printable)
+
+The following third party services will not collect information in versions 1.2.2 and above of the application -
+* [AdColony](https://www.adcolony.com/privacy-policy/)
+* [InMobi](https://www.inmobi.com/privacy-policy/)
+
 
 ### Log Data
 Whenever the application is used, in case of an error, the app collects data and information (through third party service providers) called log data on your device. The log data may include information such as your device’s Internet Protocol (“IP”) address, device name, operating system version, application configuration when using the service, time and data of your use of the service, and other statistics.
@@ -45,3 +53,6 @@ I may update the privacy policy from time to time. Thus, you are advised to revi
 
 ### Contact Me
 If you have any questions or suggestions about this privacy policy, do not hesitate to contact me at [mahakagg30@gmail.com](mailto:mahakagg30@gmail.com).
+
+### Change logs
+* 23rd September 2021 - updated for information collection by Facebook. In addition, InMobi and Adcolony has been removed as a third party for versions 1.2.2. and above of the application.
