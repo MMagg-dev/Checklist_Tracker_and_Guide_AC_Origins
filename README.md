@@ -2,7 +2,7 @@
 
 An unofficial checklist, progress tracker, and general guide for Assassin's Creed Origins game. Explore Ancient Egypt, Sinaï, Thebes, and the Valley of the Kings, and make sure you don't miss out on any quest, collectible, achievement, or papyrus puzzle in the game. The lists include the main game in addition to all the DLCs.
 
-**This app is not available on any app store.**
+[![Google Play](google_play.png)](https://play.google.com/store/apps/details?id=me.mmagg.ac_origins_checklist)
 
 ## Additional content
 * The Hidden Ones DLC
